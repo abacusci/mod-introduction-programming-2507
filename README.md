@@ -1,58 +1,62 @@
-# Introduction to Programming – July 2025
+# Introduction to Programming
 
 Welcome to the **Introduction to Programming** module at **Abacus Computing Institute**.
 
-This module is designed to give students a clear and practical understanding of programming fundamentals. It’s the perfect starting point for those with no prior experience — whether young or adult learners.
+This module is the starting point for anyone who wants to learn programming from scratch. It is designed to develop logical thinking, problem-solving skills, and a clear understanding of how computers execute instructions.
 
-> 🧠 Programming is not just about writing code. It’s about learning how to think logically, solve problems, and understand how computers work.
-
----
-
-## 📚 Module Overview
-
-- **Duration**: July 7 – Aug 2, 2025  
-- **Total Time**: 16 hours (8 sessions × 2 hours)  
-- **Modality**: Onsite
-- **Audience**: Ages 11+ (split into age-appropriate groups)  
-- **Language**: English  
-- **Tool used**: Text-based educational programming language (e.g. Small BASIC)  
-- **Support**: Continuous online support between classes
+> 🧠 Programming teaches us how to think — step by step, with clarity and creativity.
 
 ---
 
-## 🎯 Learning Goals
+## 📚 What You’ll Learn
 
-By the end of this module, students will be able to:
+This module guides learners through the essentials of programming using a text-based educational language (such as **Small BASIC**), with real examples and creative exercises.
 
-- Understand what programming is and how it’s used
-- Write basic programs using input, output, variables, and loops
-- Apply logical structures like conditions and repetitions
-- Break down problems and plan solutions step by step
-- Create small interactive projects using real code
+By the end of the course, you will be able to:
 
----
-
-## 📝 How This Repository Is Used
-
-This repo is not a traditional codebase. It serves as a **learning journal and tracking space**.
-
-- 📁 `/assignments/` – Sample code from class and student exercises  
-- 📁 `/projects/` – Final projects and creative work from students  
-- 🗂️ `WIKI` – Class notes, instructions, feedback, and milestones  
-- 📋 `ISSUES` – Weekly tracking, observations, or follow-up tasks  
-- 📌 `README` – This document, serving as a reference and module intro
+- Understand what a program is and how computers interpret code  
+- Write basic programs using **input**, **output**, **variables**, and **loops**  
+- Use **conditions** and **repetitions** to control program behavior  
+- Break down problems into logical steps and plan a solution  
+- Create your own small, interactive projects using real code  
 
 ---
 
-## ✅ Requirements
+## 🧩 Learning Approach
 
-- Ability to understand and follow instructions in English  
-- Laptop (preferred) or tablet/smartphone with internet access  
-- A notebook and pen for planning and notes  
-- Curiosity, patience, and willingness to learn
+Classes follow a **project-based, hands-on** method. Every session combines:
+
+- A short concept or demonstration  
+- Guided practice with live examples  
+- Independent challenges or small tasks  
+- Reflection, planning, and peer feedback
+
+Between sessions, students are encouraged to continue exploring, asking questions, and sharing progress through the online support channels.
 
 ---
 
-## 📣 Contact
+## 🗂️ Repository Structure
 
-This module is part of the educational program. Module page: [module/introduction-programming-july-2025](https://abacusci.com/en/module/introduction-programming-july-2025)
+This repository supports the learning process but does **not** contain assignments directly. It functions as a shared academic space.
+
+- `/projects/` – Final or ongoing personal projects  
+- `WIKI` – Class notes, programming references, feedback, and links  
+- `ISSUES` – Tasks, follow-ups, and reflections for each student or group  
+- `README.md` – This document: introduction and learning framework
+
+---
+
+## ✅ What You Need
+
+- Basic understanding of English (classes are taught in English)  
+- A laptop (recommended), tablet, or smartphone  
+- Internet connection for follow-up support  
+- A notebook and pen for sketching and thinking  
+- Enthusiasm, focus, and a learning mindset
+
+---
+
+## 🌐 Learn More
+
+To explore more about this module, visit:  
+[https://abacusci.com/intro-prog-2507](https://abacusci.com/intro-prog-2507)
